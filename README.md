@@ -10,5 +10,6 @@
 
 #### Social
 
-- <a rel="me" href="https://hachyderm.io/@mjcheetham">Mastodon – @mjcheetham@hachyderm.io</a>
-- [Twitter – @CheethamMJ](https://twitter.com/CheethamMJ)
+- Mastodon: [@mjcheetham@hachyderm.io](https://hachyderm.io/@mjcheetham)
+- Twitter: [@CheethamMJ](https://twitter.com/CheethamMJ)
+- Website: [mjcheetham.co.uk](https://mjcheetham.co.uk)
