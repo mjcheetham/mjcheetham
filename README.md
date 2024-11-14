@@ -10,6 +10,6 @@
 
 #### Social
 
+- Bluesky: [@mjcheetham.bsky.social](https://bsky.app/profile/mjcheetham.bsky.social)
 - Mastodon: [@mjcheetham@hachyderm.io](https://hachyderm.io/@mjcheetham)
-- Twitter: [@CheethamMJ](https://twitter.com/CheethamMJ)
 - Website: [mjcheetham.co.uk](https://mjcheetham.co.uk)
