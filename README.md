@@ -2,7 +2,7 @@
 
 #### Who is mjcheetham?
 
-- Software Engineer at GitHub :octocat: working on Git stuff
+- Software Engineer at Microsoft working on Git stuff
 - British/European :uk: :eu:
 - Grumpy ~old~ young man
 - Loves :wine_glass:, :clinking_glasses:, :beer: and :cheese:
